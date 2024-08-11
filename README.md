@@ -1,8 +1,10 @@
 # test-repo
 
-this is just a test repository which i have created just to test out the features and working of Github!
+This is just a test repository which i have created just to test out some random things :)
 
 
-https://www.canva.com/design/DAFxgP2tjPQ/zrnwKg6BPqIpk9dZGOuvuA/edit?utm_content=DAFxgP2tjPQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Aswell as add some data sets that i want to use just from the url XoX
+
+
 
 ok Bye
